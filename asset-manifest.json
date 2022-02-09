@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eaas/static/css/main.1d57167d.css",
+    "main.js": "/eaas/static/js/main.ec07c269.js",
+    "static/js/612.d83912f2.chunk.js": "/eaas/static/js/612.d83912f2.chunk.js",
+    "static/js/609.6275c619.chunk.js": "/eaas/static/js/609.6275c619.chunk.js",
+    "static/js/281.4e15ade0.chunk.js": "/eaas/static/js/281.4e15ade0.chunk.js",
+    "static/js/333.c9aa2c36.chunk.js": "/eaas/static/js/333.c9aa2c36.chunk.js",
+    "static/js/326.e35284f7.chunk.js": "/eaas/static/js/326.e35284f7.chunk.js",
+    "static/js/461.9ee3f1c7.chunk.js": "/eaas/static/js/461.9ee3f1c7.chunk.js",
+    "static/js/11.406d2141.chunk.js": "/eaas/static/js/11.406d2141.chunk.js",
+    "index.html": "/eaas/index.html",
+    "main.1d57167d.css.map": "/eaas/static/css/main.1d57167d.css.map",
+    "main.ec07c269.js.map": "/eaas/static/js/main.ec07c269.js.map",
+    "612.d83912f2.chunk.js.map": "/eaas/static/js/612.d83912f2.chunk.js.map",
+    "609.6275c619.chunk.js.map": "/eaas/static/js/609.6275c619.chunk.js.map",
+    "281.4e15ade0.chunk.js.map": "/eaas/static/js/281.4e15ade0.chunk.js.map",
+    "333.c9aa2c36.chunk.js.map": "/eaas/static/js/333.c9aa2c36.chunk.js.map",
+    "326.e35284f7.chunk.js.map": "/eaas/static/js/326.e35284f7.chunk.js.map",
+    "461.9ee3f1c7.chunk.js.map": "/eaas/static/js/461.9ee3f1c7.chunk.js.map",
+    "11.406d2141.chunk.js.map": "/eaas/static/js/11.406d2141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d57167d.css",
+    "static/js/main.ec07c269.js"
+  ]
+}
