@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Why use EAAS?",
+  "text": "Some additional benefits of the platform.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "You own all your data",
+      "content": "Any user generated data is available to download at anytime during or after your subscription",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Optimized for slow internet",
+      "content": "EAAS is optimized to run on slow internet speeds. A smooth student & teacher experience is our highest priority.",
       "icon": "notes.svg"
     }
   ]
